@@ -4,4 +4,4 @@
 
 [Beck](https://vk.com/beckyuldashev)
 
-![Resume cv](dist/preview.jpg)
+![Демо картинка](preview.jpg)
